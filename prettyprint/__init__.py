@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 """
-   This module privides pretty printing for list/dict/tuple/set python object.
+   This module privides pretty printing for any iterable python object.
 
    Simple example of usage is followings
 
